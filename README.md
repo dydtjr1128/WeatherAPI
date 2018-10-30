@@ -4,8 +4,9 @@
 
 </br>
 
-![image](https://user-images.githubusercontent.com/19161231/47702006-02b1a300-dc5f-11e8-9223-ada8af453e87.png)
-
+<kbd>
+  <img src="https://user-images.githubusercontent.com/19161231/47702006-02b1a300-dc5f-11e8-9223-ada8af453e87.png">
+</kbd>
 
 
 </br> 
